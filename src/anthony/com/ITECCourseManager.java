@@ -2,6 +2,8 @@ package anthony.com;
 import java.util.ArrayList;
 public class ITECCourseManager {
 
+    private static ArrayList<ITECCourse> students;
+
     public static void main(String[] args) {
 
         String maintenanceCourseName = "Microcomputer Systems Maintenance";
